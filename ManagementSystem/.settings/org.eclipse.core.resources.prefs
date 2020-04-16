@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/java1234/controller=GBK
+encoding//src/main/java/com/java1234/controller/admin=GBK
+encoding//src/main/java/com/java1234/controller/houtai=GBK
+encoding//src/main/java/com/java1234/http/HttpClient.java=GBK
+encoding//src/main/java/com/java1234/realm/MyRealm.java=UTF-8
+encoding//src/main/java/com/java1234/util/CookieUtils.java=GBK
+encoding//src/main/java/com/java1234/util/CryptographyUtil.java=GBK
+encoding//src/main/java/com/java1234/util/DateUtil.java=GBK
+encoding//src/main/java/com/java1234/util/EncrypDES.java=GBK
+encoding//src/main/java/com/java1234/util/MyUtil.java=GBK
+encoding//src/main/java/com/java1234/util/StringUtil.java=GBK
+encoding//src/main/java/com/java1234/util/XMLUtil.java=GBK
+encoding//src/main/webapp/admin/page/consumption/add_or_update.jsp=UTF-8
+encoding//src/main/webapp/static/layui-v2.2.5/layui/css/login.css=UTF-8
